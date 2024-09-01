@@ -3,8 +3,7 @@
 	<remote name="masood"
 		fetch="https://github.com/Masood-J"/>
          <remote name="eureka"
-		fetch="https://github.com/eurekadevelopment"
-		revision="android-14"/>
+		fetch="https://github.com/eurekadevelopment"/>
 	<remote name="eureka-slsi-linaro"
 		fetch="https://github.com/eurekadevelopment"
 		revision="lineage-21"/>
